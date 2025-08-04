@@ -14,14 +14,14 @@ list_of_files = [
     
     
     #api
-    "app/__init__.py"
-    "app/app.py"
+    "app/__init__.py",
+    "app/app.py",
     
     
     #aws deploy files
-    "deploy/scripts/install_dependencies.sh"
-    "deploy/scripts/start_docker.sh.sh"
-    "deploy/scripts/wait_for_health.sh"    
+    "deploy/scripts/install_dependencies.sh",
+    "deploy/scripts/start_docker.sh.sh",
+    "deploy/scripts/wait_for_health.sh",
     
     
     # Components for various stages of the project
