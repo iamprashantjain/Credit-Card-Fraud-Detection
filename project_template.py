@@ -48,7 +48,8 @@ list_of_files = [
     "appspec.yml",
     "Dockerfile",
     "dvc.yaml",
-    "params.yaml"
+    "params.yaml",
+    "README.md",
     "init_setup.sh",                        # Shell script for initial setup
     "requirements_prod.txt",                # Prod dependencies file
     "requirements_dev.txt",                 # Development dependencies file
